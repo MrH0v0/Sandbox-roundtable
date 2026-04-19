@@ -300,7 +300,7 @@ AIHUBMIX_API_KEY=your_api_key_here
 如果你只需要 API / 测试环境，也可以执行：
 
 ```powershell
-.\scripts\setup.ps1
+powershell -ExecutionPolicy Bypass -File .\scripts\setup.ps1 -Desktop
 ```
 
 ·-Desktop 会额外安装 PySide6 桌面依赖
@@ -325,7 +325,7 @@ Test-Path .\.venv\Scripts\python.exe
 推荐直接使用脚本启动：
 
 ```powershell
-.\scripts\start-desktop.ps1
+powershell -ExecutionPolicy Bypass -File .\scripts\start-desktop.ps1
 ```
 
 这个脚本本质上会执行：

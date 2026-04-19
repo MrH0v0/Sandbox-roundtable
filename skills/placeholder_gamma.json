@@ -1,0 +1,22 @@
+{
+  "id": "placeholder-gamma",
+  "name": "<成员 Gamma 的 skill 名称>",
+  "core_strategy": "<请手动填写成员 Gamma 的核心战略观>",
+  "decision_priorities": [
+    "<Gamma 优先级 1>",
+    "<Gamma 优先级 2>",
+    "<Gamma 优先级 3>"
+  ],
+  "risk_preference": "<请手动填写成员 Gamma 的风险偏好>",
+  "information_view": "<请手动填写成员 Gamma 的信息观>",
+  "tempo_view": "<请手动填写成员 Gamma 的节奏观>",
+  "resource_view": "<请手动填写成员 Gamma 的资源观>",
+  "common_failure_modes": [
+    "<Gamma 常见失败模式 1>",
+    "<Gamma 常见失败模式 2>"
+  ],
+  "output_format_requirements": [
+    "<Gamma 输出要求 1>",
+    "<Gamma 输出要求 2>"
+  ]
+}

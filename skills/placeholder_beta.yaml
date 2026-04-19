@@ -1,0 +1,17 @@
+id: placeholder-beta
+name: "<成员 Beta 的 skill 名称>"
+core_strategy: "<请手动填写成员 Beta 的核心战略观>"
+decision_priorities:
+  - "<Beta 优先级 1>"
+  - "<Beta 优先级 2>"
+  - "<Beta 优先级 3>"
+risk_preference: "<请手动填写成员 Beta 的风险偏好>"
+information_view: "<请手动填写成员 Beta 的信息观>"
+tempo_view: "<请手动填写成员 Beta 的节奏观>"
+resource_view: "<请手动填写成员 Beta 的资源观>"
+common_failure_modes:
+  - "<Beta 常见失败模式 1>"
+  - "<Beta 常见失败模式 2>"
+output_format_requirements:
+  - "<Beta 输出要求 1>"
+  - "<Beta 输出要求 2>"

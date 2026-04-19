@@ -1,0 +1,42 @@
+id: demo-roundtable
+name: Demo Roundtable
+members:
+  - id: 一号
+    display_name: 优质的元帅
+    model: gpt-5.4-mini
+    skill: placeholder_alpha.md
+    generation:
+      temperature: 0.4
+      max_tokens: 10000
+
+  - id: 二号
+    display_name: 优质的司令员
+    model: qwen3.5-plus
+    skill: placeholder_beta.yaml
+    generation:
+      temperature: 0.7
+      max_tokens: 10000
+
+  - id: 三号
+    display_name: 优质的都督
+    model: doubao-seed-2-0-lite
+    skill: placeholder_gamma.json
+    generation:
+      temperature: 0.6
+      max_tokens: 10000
+
+moderator:
+  id: moderator
+  display_name: Moderator
+  model: gemini-3-flash-preview-free
+  generation:
+    temperature: 0.2
+    max_tokens: 10000
+
+judge:
+  id: judge
+  display_name: Judge
+  model: gemini-3-flash-preview-free
+  generation:
+    temperature: 0.1
+    max_tokens: 10000

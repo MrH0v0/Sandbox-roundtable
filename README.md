@@ -1,4 +1,4 @@
-# sandbox
+# Sandbox-roundtable
 
 一个基于 Python 3.11、FastAPI、asyncio 和 AIHubMix/OpenAI 风格接口的“军事沙盘圆桌讨论引擎”MVP，当前提供：
 

@@ -260,8 +260,8 @@ AIHUBMIX_API_KEY=your_aihubmix_api_key
 ### 2. 获取源码
 
 ```powershell
-git clone <你的仓库地址>
-cd 沙盘圆桌
+git clone https://github.com/MrH0v0/Sandbox-roundtable
+cd Sandbox-roundtable
 ```
 
 如果你不是用 Git，也可以直接下载 ZIP 并解压，然后进入项目根目录。
